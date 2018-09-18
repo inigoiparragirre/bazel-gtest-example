@@ -6,4 +6,4 @@ bazel-out
 bazel-testlogs
 bazel-vagrant
 bazel-gtest_bazel_example
-.idea
+/.idea/
